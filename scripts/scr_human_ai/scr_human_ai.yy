@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"scr_human_ai",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"scr_human_ai",
+  "parent":{
+    "name":"AI",
+    "path":"folders/AI.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

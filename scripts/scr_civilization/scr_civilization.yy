@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"scr_civilization",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"scr_civilization",
+  "parent":{
+    "name":"AI",
+    "path":"folders/AI.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

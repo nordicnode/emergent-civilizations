@@ -1,0 +1,26 @@
+/// @description A single ant. All behaviour is local.
+colony = 0;
+colour = c_orange;
+caste = ANT_CASTE_WORKER;
+role = ANT_ROLE_FORAGER;
+mode = ANT_SEARCH;
+carrying = false;
+heading = random(360);
+speed_value = 60;
+age = 0;
+lifespan = random_range(150, 190);
+forage_age = random_range(35, 65);
+wander_timer = random_range(0.4, 1.2);
+scan_timer = random_range(0.1, 0.6);
+fight_timer = 0;
+flee_timer = 0;
+feed_timer = 0;
+hp = 1;
+max_hp = 1;
+recruiter = (random(1) < 0.25) ? 0 : random_range(0.5, 1.0);
+has_memory = false;
+memory_x = 0;
+memory_y = 0;
+memory_timer = 0;
+memory_fail = 0;
+depth = -1;

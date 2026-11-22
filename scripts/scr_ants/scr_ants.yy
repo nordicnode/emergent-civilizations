@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"scr_ants",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"scr_ants",
+  "parent":{
+    "name":"GameMakerProject",
+    "path":"GameMakerProject.yyp",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}
